@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "342726946101",
+    "firebase_url": "https://haatbajar-app-notification.firebaseio.com",
+    "project_id": "haatbajar-app-notification",
+    "storage_bucket": "haatbajar-app-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342726946101:android:809e52fc36be18b05bb07c",
+        "android_client_info": {
+          "package_name": "com.example.haatbajar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342726946101-1ris1b53gjd6rcg1v6pttuhccj74qotf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd2qURcpQQwA8NhUrs2VFTouMkoFgtFn0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342726946101-1ris1b53gjd6rcg1v6pttuhccj74qotf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
